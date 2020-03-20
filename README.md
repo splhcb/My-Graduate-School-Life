@@ -1,1 +1,1 @@
-# Graduate-School-Life
+# My-Graduate-School-Life
