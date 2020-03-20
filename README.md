@@ -2,7 +2,6 @@
 
 This is a single-file repo recording my graduate school life (what I have learned, what I have worked on, what I am going to learn) on theoretical high energy physics. I started to write this in March 2020, so records before this time are much “coarse-grained”.
 
----
 
 ## Before 2019.9 (before becoming a PhD student)
 
@@ -15,7 +14,6 @@ This is a single-file repo recording my graduate school life (what I have learne
 
 However, I regret a lot that I didn’t spent much time learning physics and math during my undergraduate years, that I almost wasted all my third and fourth year hanging around doing nothing, or learning other stuff. Actually, during my undergraduate years, I double majored History and took almost every single CS course, and even started an internship of programming before graduation.
 
----
 
 ## From 2019.9 to 2020.2
 Although I had taken most of the graduate courses, I had to study them over again in the first semester, which, however, took much of my time, doing tedious and time-consuming homework and preparing for the finals. Besides, I took some new courses, much content of which, however, had been learned before. Most of the remaining time is spent on reading Nakahara, SUSY and CFT.
@@ -57,7 +55,7 @@ I quickly scanned over first few chapters of this book for review. AdS/CFT was s
 Big yellow book was read thoroughly. Rychkov and bootstrap staff were read during the winter break.
 
 * Bosonic string theory: 
-  * D. Tong, String Theory, [0908.0333](https://arxiv.org/abs/0908.0333)
+  * D. Tong, Lectures on String Theory, [0908.0333](https://arxiv.org/abs/0908.0333)
 
 I had read it in undergraduate years for the first time. It is far less formidable than standard textbooks, say, Polchinski. However, much of its content was completely forgotten and I had to read again.
 
@@ -70,7 +68,6 @@ I did not spend much time on this. I read through and grasped some of the basic 
 
 We failed to calculate the final results. I also read about Chern-Simons field theory but the reflected entropy of it seemed as hard.
 
----
 
 ## In 2020.3
 * CQFT:
