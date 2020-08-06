@@ -1,10 +1,14 @@
 ## Grand Plan
 
 * IAS, quantum fields and strings
-*
 
+## Math
 
-## 2020.04 to do 
+* Ricci flow and geometry
+* algebraic geometry
+* more on representation theory
+
+## 2020.04-2020.06 to do 
 
 - [x] MUST spend time reading new papers 
 - [x] (partly) Becker, Becker and Schwarz, String Theory and M-Theory or equivalent
@@ -16,21 +20,20 @@
 - [x] (partly) rcft and quasiparticle picture
 - [ ] SYK model
 - [x] (partly) low d gravity
-- Math:
-  * Ricci flow and geometry
-  * algebraic geometry
-  * more on representation theory
-  * functional analysis review
-* Optional: 
-  * aqft,
-  * cqft 
+- [ ] (optional) aqft, cqft
 
 
 
-## 2020.07 to do
 
+## 2020.07-2020.08 to do
+- [ ] string 2020/2019
+- [ ] tasi 2020/2019
 - [ ] jt gravity and matrix ensemble
 - [ ] more on low d duality
 - [ ] more on anomaly
 - [ ] black hole information problem
 - [ ] modular group
+- [ ] D Tong gauge theory
+- [ ] ads/cft integrability
+- [ ] string swampland
+- [ ] more on string theory, especially D brane and compactification
