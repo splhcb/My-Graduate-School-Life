@@ -29,6 +29,7 @@
 - [ ] string 2020/2019
 - [ ] tasi 2020/2019
 - [ ] jt gravity and matrix ensemble
+- [ ] one-loop exactness of jt
 - [ ] more on low d duality
 - [ ] more on anomaly
 - [ ] black hole information problem
