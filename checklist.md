@@ -25,7 +25,7 @@
 
 
 
-## 2020.07-2020.08 to do
+## 2020.07-2020.09 to do
 - [ ] string 2020/2019
 - [ ] tasi 2020/2019
 - [ ] jt gravity and matrix ensemble
@@ -38,3 +38,5 @@
 - [ ] ads/cft integrability
 - [ ] string swampland
 - [ ] more on string theory, especially D brane and compactification
+- [ ] CFT twist operator
+- [ ] ttbar deformation
