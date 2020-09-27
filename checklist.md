@@ -26,17 +26,17 @@
 
 
 ## 2020.07-2020.09 to do
-- [ ] string 2020/2019
-- [ ] tasi 2020/2019
-- [ ] jt gravity and matrix ensemble
-- [ ] one-loop exactness of jt
-- [ ] more on low d duality
-- [ ] more on anomaly
-- [ ] black hole information problem
+- [x] (partly) string 2020/2019
+- [x] (partly) tasi 2020/2019
+- [x] jt gravity and matrix ensemble
+- [x] one-loop exactness of jt
+- [x] (partly) more on low d duality
+- [x] more on anomaly
+- [x] black hole information problem
 - [ ] modular group
 - [ ] D Tong gauge theory
 - [ ] ads/cft integrability
 - [ ] string swampland
 - [ ] more on string theory, especially D brane and compactification
 - [ ] CFT twist operator
-- [ ] ttbar deformation
+- [x] (partly) ttbar deformation
