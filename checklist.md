@@ -38,6 +38,6 @@
 
 
 ## 2020.10-2020.12 to do
-- [] at least finish two papers
-- [] tasi 2019
-- [] dS/CFT
+- [ ] at least finish two papers
+- [ ] tasi 2019
+- [ ] dS/CFT
