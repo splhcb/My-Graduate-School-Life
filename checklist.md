@@ -1,10 +1,5 @@
-## Grand Plan
-
-* IAS, quantum fields and strings
-
 ## Math
 
-* Ricci flow and geometry
 * algebraic geometry
 * more on representation theory
 
@@ -17,7 +12,7 @@
 - [ ] more on AdS/CFT, Maldacena's review
 - [x] holomorphy and non-renormalization theorems in susy
 - [x] minimal surface and entanglement entropy, entanglement wedge cross section
-- [x] (partly) rcft and quasiparticle picture
+- [x] (partly) rcft and quasiparticle
 - [ ] SYK model
 - [x] (partly) low d gravity
 - [ ] (optional) aqft, cqft
@@ -40,3 +35,9 @@
 - [ ] more on string theory, especially D brane and compactification
 - [ ] CFT twist operator
 - [x] (partly) ttbar deformation
+
+
+## 2020.10-2020.12 to do
+- [] at least finish two papers
+- [] tasi 2019
+- [] dS/CFT
